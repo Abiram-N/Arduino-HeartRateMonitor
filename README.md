@@ -233,22 +233,22 @@ Arduino-HeartRateMonitor is currently offline and supports only Bluetooth Based 
 
 #### Regular Heart Beat `Landscape`
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/RegularLandscape.gif">
+  <img src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/RegularLandscape.gif">
 </p>
 
 #### Regular Heart Beat `Portrait`
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/Regular_Portrait.png">
+  <img width="300" src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/Regular_Portrait.png">
 </p>
-#
+
 #### Irregular Heart Beat `Landscape`
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/Irregular_Landscape.gif">
+  <img src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/Irregular_Landscape.gif">
 </p>
-#
+
 #### Irregular Heart Beat `Portrait`
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/Irregular_Portrait.png">
+  <img width="300" src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/Irregular_Portrait.png">
 </p>
 
 [//]: # ()
