@@ -20,6 +20,7 @@ Future Development:
   - Add support to ESP32
   - Cloud integration
   - IOT support
+  - Add Dark Mode
 
 ### Tech
 
@@ -245,8 +246,3 @@ Arduino-HeartRateMonitor is currently offline and supports only Bluetooth Based 
    [Arduino IDE]: <https://www.arduino.cc/en/main/software>
    [node.js]: <http://nodejs.org>
    [PlDb]: <https://asksensors.com/>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
