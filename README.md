@@ -35,9 +35,9 @@ This Project is built using following software:
 And of course Arduino Heart Rate Monitor itself is open source with a [public repository][dill]
  on GitHub.
 
-### Implementation
+## Implementation
 
-# Android APP
+### Android APP
 
 #### Regular Heart Beat `Landscape`
 <p align="center">
