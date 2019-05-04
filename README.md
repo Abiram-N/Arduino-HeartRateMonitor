@@ -224,6 +224,7 @@ Arduino-HeartRateMonitor is currently offline and supports only Bluetooth Based 
 .
 #### Irregular Heart Beat `Landscape`
 ![Irregular Landscape](https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/Irregular_Landscape.gif)
+
 .
 #### Irregular Heart Beat `Portrait`
 <img src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/Irregular_Portrait.png" width="300">
