@@ -37,6 +37,29 @@ And of course Arduino Heart Rate Monitor itself is open source with a [public re
 
 ### Implementation
 
+# Android APP
+
+#### Regular Heart Beat `Landscape`
+<p align="center">
+  <img src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/RegularLandscape.gif">
+</p>
+
+#### Regular Heart Beat `Portrait`
+<p align="center">
+  <img width="300" src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/Regular_Portrait.png">
+</p>
+
+#### Irregular Heart Beat `Landscape`
+<p align="center">
+  <img src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/Irregular_Landscape.gif">
+</p>
+
+#### Irregular Heart Beat `Portrait`
+<p align="center">
+  <img width="300" src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/Irregular_Portrait.png">
+</p>
+
+
 #### Arduino Code
 
 ```sh
@@ -212,29 +235,6 @@ Arduino-HeartRateMonitor is currently offline and supports only Bluetooth Based 
 | ------ | ------ |
 | Ask Sensors | [asksensors.com][PlDb] |
 | Adafruit | [adafruit.io][Adafruit] |
-
-
-# Android APP
-
-#### Regular Heart Beat `Landscape`
-<p align="center">
-  <img src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/RegularLandscape.gif">
-</p>
-
-#### Regular Heart Beat `Portrait`
-<p align="center">
-  <img width="300" src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/Regular_Portrait.png">
-</p>
-
-#### Irregular Heart Beat `Landscape`
-<p align="center">
-  <img src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/Irregular_Landscape.gif">
-</p>
-
-#### Irregular Heart Beat `Portrait`
-<p align="center">
-  <img width="300" src="https://github.com/Abiram-N/Arduino-HeartRateMonitor/blob/master/asset/Irregular_Portrait.png">
-</p>
 
 [//]: # ()
 
