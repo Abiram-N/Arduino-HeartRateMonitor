@@ -4,7 +4,7 @@
 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
-![DOWNLOAD THE APP FROM GOOGLE PLAY STORE](https://microsoftindia.app.link/heartratemonitor)
+[DOWNLOAD THE APP FROM GOOGLE PLAY STORE]
 
 Arduino Heart Rate Monitor is a Heart Rate Monitor which uses Bluetooth to communicate with arduino and displays heart rate and BPM.
 
@@ -248,3 +248,4 @@ Arduino-HeartRateMonitor is currently offline and supports only Bluetooth Based 
    [Arduino IDE]: <https://www.arduino.cc/en/main/software>
    [node.js]: <http://nodejs.org>
    [PlDb]: <https://asksensors.com/>
+   [DOWNLOAD THE APP FROM GOOGLE PLAY STORE]:<https://microsoftindia.app.link/heartratemonitor>
